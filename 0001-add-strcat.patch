@@ -1,0 +1,21 @@
+From 555b00d5bd427ee4afbfa4f55f37444bbeda13e9 Mon Sep 17 00:00:00 2001
+From: shehreen khan <khanshehreen10@gmail.com>
+Date: Sun, 12 Jul 2020 19:08:19 +0530
+Subject: [PATCH] add strcat
+
+---
+ login.html | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/login.html b/login.html
+index e9f12b6..f371b1a 100644
+--- a/login.html
++++ b/login.html
+@@ -1 +1 @@
+-login
+\ No newline at end of file
++login shehreen
+\ No newline at end of file
+-- 
+2.27.0.windows.1
+
